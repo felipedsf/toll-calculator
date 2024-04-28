@@ -1,8 +1,13 @@
 # toll-calculator
 
+### tech stack: 
+- `golang`
+- `websocket`
+- `kafka`
+
 ---
 ## obu
->data generator service
+>data generator/sender service
 - **run**: `make obu`
 
 ---
